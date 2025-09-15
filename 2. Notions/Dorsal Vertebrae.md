@@ -1,0 +1,1 @@
+[[Vertebrae]] in the back, have tall Spinous [[Vertebral Processes]] and areas to attach to ribs

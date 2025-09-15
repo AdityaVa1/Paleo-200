@@ -1,0 +1,1 @@
+The hole in the [[Pelvic Girdles]] into which the [[Hindlimbs]] connect.

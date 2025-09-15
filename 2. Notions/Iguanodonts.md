@@ -1,0 +1,1 @@
+large [[Ornithopods]] with a spike-shaped claw on each hand.

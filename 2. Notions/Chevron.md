@@ -1,0 +1,1 @@
+[[Bones]] underneath the [[Caudal Vertebrae]] to protect blood vessels and nerves, and support tail muscles. 

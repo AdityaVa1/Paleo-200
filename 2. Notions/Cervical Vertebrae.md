@@ -1,0 +1,1 @@
+[[Vertebrae]] in the neck, adapted to have opening for large blood vessels and nerves, and to support weight of animal's head.

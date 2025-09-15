@@ -1,0 +1,1 @@
+[[Ornithopods]]n [[Dinosaurs]] used all 4 legs, front legs shorter than back legs, skull was small long and low, leaf shaped teeth, narrow beak, ==plates/spikes on the back ([[Osteoderms]])==, long tails.

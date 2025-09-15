@@ -1,0 +1,1 @@
+Muscles decompose and are rarely preserved, so instead paleontologist referenced modern [[Birds]] (direct descendants of [[Dinosaurs]]) and crocodiles (second cousins), along with muscle fiber holes in the bones.

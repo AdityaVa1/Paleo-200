@@ -1,0 +1,1 @@
+Two main groups of Dinosaurs [[Saurischia]] and [[Ornithopods]] 

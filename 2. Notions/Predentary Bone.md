@@ -1,0 +1,1 @@
+[[Bones]] in the tip of the jaw, used for biting off plants

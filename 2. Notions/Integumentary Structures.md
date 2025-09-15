@@ -1,0 +1,1 @@
+[[Osteoderms]], Scales, [[Feathers (Dinosaurs)]], Keratin. Features that don't fossilize easily.

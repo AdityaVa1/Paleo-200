@@ -1,0 +1,1 @@
+[[Ornithopods]]n [[Dinosaurs]] with armor, had osteoderms like Stegosauria but were covered in them, round bodies, blocky skulls, tail club with huge [[Osteoderms]] at the end. 
