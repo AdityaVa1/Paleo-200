@@ -33,13 +33,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "Daily Notes": "FarPenToSquare",
-  "Presentations": "LiScreenShare",
-  "Reading List.md": "LiBookOpen",
-  "Stats.md": "LiPieChart",
-  "Meeting Notes": "FarPenToSquare",
-  "Dailies.md": "LiCalendar",
-  "Meetings.md": "LiCalendarClock",
-  "TODOs.md": "LiListTodo"
+  }
 }
