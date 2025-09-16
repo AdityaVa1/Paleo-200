@@ -1,0 +1,1 @@
+A buried fossil might be subject to great pressure. This pressure can either flatten [[Bones]] or cause them to deform and not return to their original shape.
