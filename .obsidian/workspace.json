@@ -139,16 +139,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Sedimentary Rocks (Fossils).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Sedimentary Rocks (Fossils)"
+            }
+          },
+          {
+            "id": "5e17384f21051c84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sedimentary Rocks (Fossils).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sedimentary Rocks (Fossils)"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -332,10 +346,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9b4d9b92a9e0a232",
+  "active": "5e17384f21051c84",
   "lastOpenFiles": [
+    "Sedimentology.md",
+    "Fossil.md",
+    "Sedimentary Rocks (Fossils).md",
     "Aeolian (Wind-Based) Deposits.md",
-    "Untitled.md",
     "Coastal Environments.md",
     "Taphonomy.md",
     "Bloat  and Float.md",
@@ -358,8 +374,6 @@
     "Dailies.md",
     "Stats.md",
     "TODOs.md",
-    "1. Source Notes/@amouyalLargeLanguageModels2024.md",
-    "_templates/zotero-source-note.md",
     "_templates/presentations/slides-cea",
     "_templates/presentations/resources-cea/deco-coin-blanc.png",
     "_templates/presentations/resources-cea/quote-rouge.png",

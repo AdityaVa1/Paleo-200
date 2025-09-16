@@ -1,0 +1,1 @@
+Study of how [[Sedimentary Rocks (Fossils)]] form. Can help us learn about the habitat of the [[Fossil]]. 
