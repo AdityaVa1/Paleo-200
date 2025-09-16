@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "Lacustrine Deposits"
             }
+          },
+          {
+            "id": "3286496e502e0400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coastal Environments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coastal Environments"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -290,14 +304,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a78784cc7c0b3102",
+  "active": "3286496e502e0400",
   "lastOpenFiles": [
+    "Taphonomy.md",
+    "Bloat  and Float.md",
+    "Plastic Deformation.md",
+    "Fossilization.md",
     "Fluvial Deposits.md",
     "Lacustrine Deposits.md",
-    "Fossilization.md",
-    "Plastic Deformation.md",
-    "Bloat  and Float.md",
-    "Taphonomy.md",
+    "Coastal Environments.md",
     "2. Notions/Ornithopods.md",
     "2. Notions/Pachycephalosauria.md",
     "2. Notions/Saurischia.md",
@@ -317,7 +332,6 @@
     "_templates/zotero-source-note.md",
     "1. Source Notes/@rileySemiAutomatedConstructionSenseAnnotated.md",
     "_templates/source-note.md",
-    "_templates/outline-note.md",
     "_templates/presentations/slides-cea",
     "_templates/presentations/resources-cea/deco-coin-blanc.png",
     "_templates/presentations/resources-cea/quote-rouge.png",

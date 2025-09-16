@@ -1,1 +1,1 @@
-Study of natural processes that effect the organism after its death
+Study of natural processes that effect the organism after its death ([[Dinosaurs]])

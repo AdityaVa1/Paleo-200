@@ -1,1 +1,1 @@
-[[Bones]] need to buried. Most commonly by sediments (sand, mud) being deposited over the bones. Therefore its more common at lower elevations. 
+[[Dinosaurs]] [[Bones]] need to buried. Most commonly by sediments (sand, mud) being deposited over the bones. Therefore its more common at lower elevations. 

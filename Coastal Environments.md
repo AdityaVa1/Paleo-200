@@ -1,0 +1,1 @@
+A very rare place for [[Fossilization]], happens when [[Dinosaurs]] washed out to sea during tsunami or storm.
