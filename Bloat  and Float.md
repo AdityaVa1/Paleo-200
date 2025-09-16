@@ -1,0 +1,1 @@
+A [[Taphonomy]] process in which the body of a dead animal fills with gasses and floats down a water body. 
