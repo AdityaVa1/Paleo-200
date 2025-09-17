@@ -52,22 +52,22 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             },
-            "group": "5b3f4ccbc0190ac9"
+            "group": "0678dd63d1edb1e4"
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "6d5bb662a8b85022",
+        "id": "81a2c386848942e3",
         "type": "tabs",
         "children": [
           {
-            "id": "c4c571a633704fd2",
+            "id": "c782919cad2efd14",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Notions/Ornithopods.md",
+                "file": "2. Notions/Dinosaurs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -90,14 +90,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9999999999999989,
+                  "scale": 0.9999999999999997,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ornithopods"
+              "title": "Graph of Dinosaurs"
             },
-            "group": "5b3f4ccbc0190ac9"
+            "group": "0678dd63d1edb1e4"
           }
         ]
       }
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "da5a80da022a150f",
