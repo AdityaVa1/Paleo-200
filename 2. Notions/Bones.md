@@ -4,21 +4,9 @@
 
 [[Vertebral Column]]
 
-[[Caudal Vertebrae]]
-
-[[Cervical Vertebrae]]
-
-[[Dorsal Vertebrae]]
-
-[[Sacral Vertebrae]]
-
-[[Chevron]]
-
 [[Forelimbs]]
 
 [[Hindlimbs]]
-
-[[Acetabulum]]
 
 [[Ilium]]
 
