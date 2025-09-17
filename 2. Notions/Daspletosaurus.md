@@ -1,1 +1,1 @@
-A [[Tyrannosaurus]]
+A [[Tyrannosaurus]] [[Dinosaurs]]

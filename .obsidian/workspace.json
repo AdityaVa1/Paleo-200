@@ -4,165 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "dff676ce80587ec4",
+        "id": "ef970e144a98a14d",
         "type": "tabs",
         "children": [
           {
-            "id": "1c1f24030c8c1883",
+            "id": "87c4199552c644ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "2. Notions/Ornithopods.md",
-                "mode": "source",
-                "source": false
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224418,
+                  "close": true
+                }
               },
-              "icon": "lucide-file",
-              "title": "Ornithopods"
-            }
-          },
-          {
-            "id": "dc9ff9f478173ef2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Taphonomy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Taphonomy"
-            }
-          },
-          {
-            "id": "81ac529d14c65abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bloat  and Float.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bloat  and Float"
-            }
-          },
-          {
-            "id": "6478c01187dfed33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plastic Deformation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plastic Deformation"
-            }
-          },
-          {
-            "id": "260463a5bb4f46c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fossilization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fossilization"
-            }
-          },
-          {
-            "id": "6ac2212db3493bab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fluvial Deposits.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fluvial Deposits"
-            }
-          },
-          {
-            "id": "a78784cc7c0b3102",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lacustrine Deposits.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lacustrine Deposits"
-            }
-          },
-          {
-            "id": "3286496e502e0400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coastal Environments.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Coastal Environments"
-            }
-          },
-          {
-            "id": "1cfaf2159998ec7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aeolian (Wind-Based) Deposits.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aeolian (Wind-Based) Deposits"
-            }
-          },
-          {
-            "id": "9b4d9b92a9e0a232",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sedimentary Rocks (Fossils).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sedimentary Rocks (Fossils)"
-            }
-          },
-          {
-            "id": "5e17384f21051c84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sedimentary Rocks (Fossils).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sedimentary Rocks (Fossils)"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -346,20 +227,26 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5e17384f21051c84",
+  "active": "87c4199552c644ba",
   "lastOpenFiles": [
-    "Sedimentology.md",
-    "Fossil.md",
-    "Sedimentary Rocks (Fossils).md",
-    "Aeolian (Wind-Based) Deposits.md",
-    "Coastal Environments.md",
-    "Taphonomy.md",
-    "Bloat  and Float.md",
-    "Plastic Deformation.md",
-    "Fossilization.md",
-    "Fluvial Deposits.md",
-    "Lacustrine Deposits.md",
     "2. Notions/Ornithopods.md",
+    "2. Notions/Taphonomy.md",
+    "2. Notions/Bloat  and Float.md",
+    "2. Notions/Plastic Deformation.md",
+    "2. Notions/Fossilization.md",
+    "2. Notions/Fluvial Deposits.md",
+    "2. Notions/Lacustrine Deposits.md",
+    "2. Notions/Coastal Environments.md",
+    "2. Notions/Aeolian (Wind-Based) Deposits.md",
+    "2. Notions/Sedimentary Rocks (Fossils).md",
+    "2. Notions/Bones.md",
+    "2. Notions/Dinosaurs.md",
+    "2. Notions/Daspletosaurus.md",
+    "2. Notions/Theropods.md",
+    "2. Notions/Veloceraptor.md",
+    "README.md",
+    "2. Notions/Sedimentology.md",
+    "2. Notions/Fossil.md",
     "2. Notions/Pachycephalosauria.md",
     "2. Notions/Saurischia.md",
     "2. Notions/Hadrosauria.md",
@@ -368,12 +255,6 @@
     "2. Notions/Iguanodonts.md",
     "2. Notions/Ischium.md",
     "2. Notions/Hip.md",
-    "README.md",
-    "Reading List.md",
-    "Meetings.md",
-    "Dailies.md",
-    "Stats.md",
-    "TODOs.md",
     "_templates/presentations/slides-cea",
     "_templates/presentations/resources-cea/deco-coin-blanc.png",
     "_templates/presentations/resources-cea/quote-rouge.png",
