@@ -4,14 +4,6 @@
 
 [[Vertebrae]]/[[Vertebral Column]]
 
-[[Ilium]]
-
-[[Ischium]]
-
-[[Sacrum]]
-
-[[Pubis]]
-
 [[Caudal Vertebrae]]
 
 [[Cervical Vertebrae]]
@@ -26,3 +18,18 @@
 
 [[Hindlimbs]]
 
+[[Pectoral Girdles]]
+
+[[Pelvic Girdles]]
+
+[[Acetabulum]]
+
+[[Ilium]]
+
+[[Ischium]]
+
+[[Sacrum]]
+
+[[Pubis]]
+
+[[Predentary Bone]]

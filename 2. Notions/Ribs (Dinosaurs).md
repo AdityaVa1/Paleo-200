@@ -1,1 +1,1 @@
-Ribs in [[Dinosaurs]] may be supported by all [[Cervical Vertebrae]], [[Dorsal Vertebrae]], [[Sacral Vertebrae]], [[Caudal Vertebrae]].
+Ribs in Dinosaurs may be supported by all Cervical Vertebrae, Dorsal Vertebrae, Sacral Vertebrae, Caudal Vertebrae.

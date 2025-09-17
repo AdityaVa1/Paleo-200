@@ -1,6 +1,6 @@
 Holes in the [[Dinosaur Skull]].
 
-There are 3 fenestrae in [[Dinosaurs]]:
+There are 3 fenestrae in Dinosaurs:
 
 1) Antorbital: In front of Orbits
 2) Supratemporal: Above Orbits
