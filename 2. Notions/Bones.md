@@ -1,5 +1,3 @@
-[[Dinosaur Skull]]
-
 [[Ribs (Dinosaurs)]]
 
 [[Vertebral Column]]
@@ -9,6 +7,8 @@
 [[Hindlimbs]]
 
 [[Pelvic Girdles]]
+
+[[Pectoral Girdles]]
 
 [[Predentary Bone]]
 

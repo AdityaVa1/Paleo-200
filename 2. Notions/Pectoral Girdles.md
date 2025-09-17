@@ -1,1 +1,1 @@
-The scapula/shoulder blade is the largest [[Bones]]
+The scapula/shoulder blade is the largest Bones

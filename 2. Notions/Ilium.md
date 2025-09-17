@@ -1,1 +1,1 @@
-Upper [[Hip]] [[Bones]]
+Upper Hip Bones
