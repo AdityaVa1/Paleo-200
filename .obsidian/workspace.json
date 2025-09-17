@@ -42,6 +42,62 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "d7fee0bd51dbaf5f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "5b3f4ccbc0190ac9"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6d5bb662a8b85022",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4c571a633704fd2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2. Notions/Ornithopods.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9999999999999989,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Ornithopods"
+            },
+            "group": "5b3f4ccbc0190ac9"
           }
         ]
       }
@@ -227,7 +283,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "87c4199552c644ba",
+  "active": "d7fee0bd51dbaf5f",
   "lastOpenFiles": [
     "2. Notions/Ornithopods.md",
     "2. Notions/Taphonomy.md",
