@@ -2,7 +2,7 @@
 
 [[Ribs (Dinosaurs)]]
 
-[[Vertebrae]]/[[Vertebral Column]]
+[[Vertebral Column]]
 
 [[Caudal Vertebrae]]
 
@@ -17,10 +17,6 @@
 [[Forelimbs]]
 
 [[Hindlimbs]]
-
-[[Pectoral Girdles]]
-
-[[Pelvic Girdles]]
 
 [[Acetabulum]]
 

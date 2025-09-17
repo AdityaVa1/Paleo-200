@@ -1,1 +1,1 @@
-Group of animals with 2 special adaptations: A skull and [[Vertebrae]] 
+Group of animals with 2 special adaptations: A  and [[Vertebrae]] 
