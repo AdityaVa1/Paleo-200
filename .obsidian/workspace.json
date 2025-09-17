@@ -8,54 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87c4199552c644ba",
+            "id": "1107d6396959e115",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224418,
-                  "close": true
-                }
+                "file": "2. Notions/Dinosaurs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "Dinosaurs"
             }
-          },
-          {
-            "id": "d7fee0bd51dbaf5f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            },
-            "group": "0678dd63d1edb1e4"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "81a2c386848942e3",
@@ -96,8 +62,7 @@
               },
               "icon": "lucide-git-fork",
               "title": "Graph of Dinosaurs"
-            },
-            "group": "0678dd63d1edb1e4"
+            }
           }
         ]
       }
@@ -156,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "da5a80da022a150f",
@@ -284,8 +248,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d7fee0bd51dbaf5f",
+  "active": "1107d6396959e115",
   "lastOpenFiles": [
+    "2. Notions/Acetabulum.md",
+    "2. Notions/Aeolian (Wind-Based) Deposits.md",
+    "2. Notions/Dinosaurs.md",
+    "2. Notions/Vertebrae.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "2. Notions/Bones.md",
     "2. Notions/Ornithopods.md",
     "2. Notions/Taphonomy.md",
     "2. Notions/Bloat  and Float.md",
@@ -294,10 +265,7 @@
     "2. Notions/Fluvial Deposits.md",
     "2. Notions/Lacustrine Deposits.md",
     "2. Notions/Coastal Environments.md",
-    "2. Notions/Aeolian (Wind-Based) Deposits.md",
     "2. Notions/Sedimentary Rocks (Fossils).md",
-    "2. Notions/Bones.md",
-    "2. Notions/Dinosaurs.md",
     "2. Notions/Daspletosaurus.md",
     "2. Notions/Theropods.md",
     "2. Notions/Veloceraptor.md",
@@ -310,8 +278,6 @@
     "2. Notions/Ceratopsia.md",
     "2. Notions/Ankylosauria.md",
     "2. Notions/Iguanodonts.md",
-    "2. Notions/Ischium.md",
-    "2. Notions/Hip.md",
     "_templates/presentations/slides-cea",
     "_templates/presentations/resources-cea/deco-coin-blanc.png",
     "_templates/presentations/resources-cea/quote-rouge.png",
@@ -330,8 +296,6 @@
     "_media",
     "_taskido/view.js",
     "_taskido/view.css",
-    "_taskido",
-    "_tasksCalendar/view.js",
     "Untitled.canvas"
   ]
 }
