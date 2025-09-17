@@ -1,7 +1,8 @@
 The hip contains three main Bones:
 
-1) Ilium
-2) Pubis
-3) Ischium
+1) [[Ilium]]
+2) [[Ischium]]
+3) [[Sacrum]]
+4) [[Pubis]]
 
 Acetabulum

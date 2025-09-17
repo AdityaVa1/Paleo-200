@@ -8,12 +8,8 @@
 
 [[Hindlimbs]]
 
-[[Ilium]]
-
-[[Ischium]]
-
-[[Sacrum]]
-
-[[Pubis]]
+[[Pelvic Girdles]]
 
 [[Predentary Bone]]
+
+[[Osteoderms]]
