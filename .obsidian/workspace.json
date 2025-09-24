@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ef970e144a98a14d",
+        "id": "8019a10d8eb1d454",
         "type": "tabs",
+        "dimension": 31.005110732538334,
         "children": [
           {
-            "id": "93efb597d04a64df",
+            "id": "36f3d1eed75214e6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,35 +17,22 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             },
-            "group": "c14f3558f8a08ab7"
-          },
-          {
-            "id": "3077af95b344f0a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Notions/Skeleton.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Skeleton"
-            }
+            "group": "3daffdee7e02fe3d"
           }
         ]
       },
       {
-        "id": "279421baa57e24f4",
+        "id": "3a6f71daa7487a66",
         "type": "tabs",
+        "dimension": 68.99488926746167,
         "children": [
           {
-            "id": "2ae3ee214c7c8206",
+            "id": "05ccd13bc05758c6",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Notions/Gastralia.md",
+                "file": "2. Notions/Dinosaurs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -67,28 +55,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224419,
+                  "scale": 1,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Gastralia"
+              "title": "Graph of Dinosaurs"
             },
-            "group": "c14f3558f8a08ab7"
-          },
-          {
-            "id": "f91fa794bd18b077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Notions/Bones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bones"
-            }
+            "group": "3daffdee7e02fe3d"
           }
         ]
       }
@@ -274,11 +248,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "93efb597d04a64df",
+  "active": "05ccd13bc05758c6",
   "lastOpenFiles": [
+    "2. Notions/Bones.md",
     "2. Notions/Appendicular Skeleton.md",
     "2. Notions/Gastralia.md",
-    "2. Notions/Bones.md",
     "2. Notions/Ilium.md",
     "2. Notions/Skeleton.md",
     "2. Notions/Pelvic Girdles.md",
