@@ -1,0 +1,1 @@
+They are brittle, so we wrap them with cloth or paper towels or aluminium foil, then wrap them in burlap which was soaked in plaster 
