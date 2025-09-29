@@ -1,0 +1,1 @@
+Remove top soil and rock above a fossil, using inde

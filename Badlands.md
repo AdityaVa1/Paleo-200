@@ -1,1 +1,1 @@
-Best place to find fossils
+Best place to find fossils, less vegetation, high erosion
