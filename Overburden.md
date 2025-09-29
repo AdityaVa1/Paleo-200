@@ -1,1 +1,1 @@
-Remove top soil and rock above a fossil, using inde
+Remove top soil and rock above a fossil, using indelicate tools
