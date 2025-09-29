@@ -1,0 +1,1 @@
+Minerals deposited inside holes in bones. Bones absorb minerals through water.

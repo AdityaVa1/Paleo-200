@@ -1,0 +1,1 @@
+Original bone decays, and minerals fill the space.

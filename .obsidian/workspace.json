@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notions/Theropods.md",
+                "file": "Replacement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theropods"
+              "title": "Replacement"
+            }
+          },
+          {
+            "id": "34eecb1176785953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Badlands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Badlands"
+            }
+          },
+          {
+            "id": "98464c8baa5ae786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finding Fossils.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Finding Fossils"
+            }
+          },
+          {
+            "id": "7b2b8b187d2b6746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permineralization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Permineralization"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,8 +248,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "51a319c6996763ab",
+  "active": "98464c8baa5ae786",
   "lastOpenFiles": [
+    "Badlands.md",
+    "Finding Fossils.md",
+    "Replacement.md",
+    "2. Notions/Preservation Styles.md",
+    "Permineralization.md",
+    "2. Notions/Vertebrate.md",
+    "2. Notions/Vertebral Processes.md",
+    "2. Notions/Vertebral Column.md",
+    "2. Notions/Vertebrae.md",
+    "2. Notions/Theropods.md",
     "2. Notions/Tetrapod.md",
     "2. Notions/Taphonomy.md",
     "2. Notions/Stegosauria.md",
@@ -216,7 +269,6 @@
     "2. Notions/Sauropomorphs (Sauropods).md",
     "2. Notions/Saurischia.md",
     "2. Notions/Prosauropods.md",
-    "2. Notions/Theropods.md",
     "2. Notions/Sacral Vertebrae.md",
     "2. Notions/Ribs (Dinosaurs).md",
     "2. Notions/Pubis.md",
@@ -224,15 +276,6 @@
     "2. Notions/Plastic Deformation.md",
     "2. Notions/Pelvic Girdles.md",
     "2. Notions/Pectoral Girdles.md",
-    "2. Notions/Pachycephalosauria.md",
-    "2. Notions/Osteoderms.md",
-    "2. Notions/Ornithopods.md",
-    "2. Notions/Orbits.md",
-    "2. Notions/Nares.md",
-    "2. Notions/Muscles (In Dinosaurs).md",
-    "2. Notions/Melanosomes.md",
-    "2. Notions/Lacustrine Deposits.md",
-    "2. Notions/Ischium.md",
     "Untitled 1.base",
     "Untitled.base",
     "_templates/presentations/slides-cea",
