@@ -1,38 +1,17 @@
 {
-  "collapse-filter": true,
-  "search": "path:\"2. Notions\"  ",
-  "showTags": false,
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "[\"category\":source-note]",
+      "query": "Bones",
       "color": {
         "a": 1,
-        "rgb": 3391487
-      }
-    },
-    {
-      "query": "[\"category\":notion-note]",
-      "color": {
-        "a": 1,
-        "rgb": 16746065
-      }
-    },
-    {
-      "query": "[\"category\":thinking-note]",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "[\"category\":outline-note",
-      "color": {
-        "a": 1,
-        "rgb": 14488146
+        "rgb": 14701138
       }
     }
   ],
@@ -46,6 +25,6 @@
   "repelStrength": 8.62785862785863,
   "linkStrength": 0.506237006237006,
   "linkDistance": 243,
-  "scale": 0.6081899047943918,
+  "scale": 0.8526718451218095,
   "close": true
 }

@@ -4,65 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8019a10d8eb1d454",
+        "id": "c8f54c2393503af1",
         "type": "tabs",
-        "dimension": 31.005110732538334,
         "children": [
           {
-            "id": "36f3d1eed75214e6",
+            "id": "51a319c6996763ab",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            },
-            "group": "3daffdee7e02fe3d"
-          }
-        ]
-      },
-      {
-        "id": "3a6f71daa7487a66",
-        "type": "tabs",
-        "dimension": 68.99488926746167,
-        "children": [
-          {
-            "id": "05ccd13bc05758c6",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "2. Notions/Dinosaurs.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
+                "file": "2. Notions/Appendicular Skeleton.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Dinosaurs"
-            },
-            "group": "3daffdee7e02fe3d"
+              "icon": "lucide-file",
+              "title": "Appendicular Skeleton"
+            }
           }
         ]
       }
@@ -225,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -248,22 +205,26 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "05ccd13bc05758c6",
+  "active": "51a319c6996763ab",
   "lastOpenFiles": [
+    "2. Notions/Ankylosauria.md",
+    "2. Notions/Aeolian (Wind-Based) Deposits.md",
+    "2. Notions/Acetabulum.md",
+    "Untitled.md",
+    "2. Notions/Birds.md",
+    "2. Notions/Skeleton.md",
+    "Dinosaur Skull.md",
     "2. Notions/Bones.md",
+    "2. Notions/Hip.md",
     "2. Notions/Appendicular Skeleton.md",
     "2. Notions/Gastralia.md",
     "2. Notions/Ilium.md",
-    "2. Notions/Skeleton.md",
     "2. Notions/Pelvic Girdles.md",
-    "Dinosaur Skull.md",
     "2. Notions/Pectoral Girdles.md",
     "2. Notions/Osteoderms.md",
-    "2. Notions/Birds.md",
     "2. Notions/Vertebrae.md",
     "2. Notions/Vertebral Processes.md",
     "2. Notions/Dorsal Vertebrae.md",
-    "2. Notions/Hip.md",
     "2. Notions/Vertebral Column.md",
     "2. Notions/Vertebrate.md",
     "2. Notions/Cervical Vertebrae.md",
@@ -272,10 +233,6 @@
     "2. Notions/Caudal Vertebrae.md",
     "2. Notions/Ribs (Dinosaurs).md",
     "2. Notions/Fenestrae.md",
-    "2. Notions/Forelimbs.md",
-    "2. Notions/Skull (Dinosaurs).md",
-    "2. Notions/Orbits.md",
-    "2. Notions/Ornithopods.md",
     "Untitled 1.base",
     "Untitled.base",
     "_templates/presentations/slides-cea",
