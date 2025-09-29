@@ -1,4 +1,4 @@
-Smallest [[Dinosaurs]] we know about, features to looks for:
+Present [[Dinosaurs]] we know about, features to looks for:
 
 1) Belong to [[Theropods]]
 2) Both have [[Feathers (Dinosaurs)]]
