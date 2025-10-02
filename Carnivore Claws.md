@@ -1,0 +1,1 @@
+Hooked claws for holding onto prey
