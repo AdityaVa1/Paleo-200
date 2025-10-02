@@ -1,0 +1,1 @@
+lost 3rd finger so only 2 fingers
