@@ -5,16 +5,8 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "Bones",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    }
-  ],
+  "collapse-color-groups": false,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -25,6 +17,6 @@
   "repelStrength": 8.62785862785863,
   "linkStrength": 0.506237006237006,
   "linkDistance": 243,
-  "scale": 0.8526718451218095,
+  "scale": 0.8526718451218078,
   "close": true
 }

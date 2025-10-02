@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f54c2393503af1",
+        "id": "6b17645a833f2494",
         "type": "tabs",
         "children": [
           {
-            "id": "51a319c6996763ab",
+            "id": "e3dbeaf93deacdff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Replacement.md",
+                "file": "2. Notions/Ornithopods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Replacement"
-            }
-          },
-          {
-            "id": "34eecb1176785953",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Badlands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Badlands"
-            }
-          },
-          {
-            "id": "28f7a09ed789b7b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prospecting for Fossils.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prospecting for Fossils"
-            }
-          },
-          {
-            "id": "164d064ca0bf7c1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overburden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overburden"
-            }
-          },
-          {
-            "id": "7f20482c5abe9f4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Notions/Saurischia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Saurischia"
-            }
-          },
-          {
-            "id": "98464c8baa5ae786",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Searching for Fossils.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Searching for Fossils"
-            }
-          },
-          {
-            "id": "7b2b8b187d2b6746",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permineralization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Permineralization"
+              "title": "Ornithopods"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,34 +205,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7f20482c5abe9f4d",
+  "active": "722997cb7154eee3",
   "lastOpenFiles": [
+    "Untitled 2.md",
     "2. Notions/Ornithopods.md",
+    "Herbivores.md",
+    "Untitled 1.md",
+    "2. Notions/Saurischia.md",
+    "2. Notions/Protect the Bones.md",
+    "2. Notions/Searching for Fossils.md",
+    "Untitled.md",
+    "README.md",
+    "2. Notions/Permineralization.md",
+    "2. Notions/Replacement.md",
+    "2. Notions/Badlands.md",
+    "2. Notions/Prospecting for Fossils.md",
+    "2. Notions/Overburden.md",
+    "2. Notions/Sacrum.md",
+    "2. Notions/Fossil Curation.md",
+    "2. Notions/Finding Fossils.md",
+    "2. Notions/Dinosaur Skull.md",
     "2. Notions/Hadrosauria.md",
-    "Fossil Curation.md",
-    "Protect the Bones.md",
     "Burlap.md",
-    "Overburden.md",
-    "Prospecting for Fossils.md",
-    "Badlands.md",
-    "Searching for Fossils.md",
-    "Finding Fossils.md",
-    "Replacement.md",
     "2. Notions/Preservation Styles.md",
-    "Permineralization.md",
     "2. Notions/Vertebrate.md",
     "2. Notions/Vertebral Processes.md",
     "2. Notions/Vertebral Column.md",
     "2. Notions/Vertebrae.md",
     "2. Notions/Theropods.md",
-    "2. Notions/Tetrapod.md",
-    "2. Notions/Taphonomy.md",
-    "2. Notions/Stegosauria.md",
-    "2. Notions/Skeleton.md",
-    "2. Notions/Sedimentology.md",
-    "2. Notions/Sedimentary Rocks (Fossils).md",
-    "2. Notions/Sauropomorphs (Sauropods).md",
-    "2. Notions/Saurischia.md",
     "Untitled 1.base",
     "Untitled.base",
     "_templates/presentations/slides-cea",

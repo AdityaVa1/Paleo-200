@@ -4,4 +4,4 @@
 4) Map out the Bones
 5) [[Protect the Bones]]
 6) Open the plaster in lab
-7) Remove rocks from bone
+7) Remove rocks from bone in lab
