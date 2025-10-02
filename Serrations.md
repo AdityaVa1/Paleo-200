@@ -1,0 +1,1 @@
+small sharp bumps on a tooth

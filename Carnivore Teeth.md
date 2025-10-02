@@ -1,3 +1,3 @@
 [[Carnivores]] sharp pointed teeth
 
-like lizards, some have [[Serrated/Serrations]] teeth
+like lizards, some have [[Serrated]] teeth
