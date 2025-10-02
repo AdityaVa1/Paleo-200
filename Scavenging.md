@@ -1,1 +1,1 @@
-Consumption of a dead animal
+Consumption of a dead animal by a carnivore that did not play a part in killing it. Usually not [[Durophagy]].
