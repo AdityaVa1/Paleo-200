@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "8a937d4dd82bf650",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "8ea9ad50b3cbd522",
             "type": "leaf",
             "state": {
@@ -63,7 +75,8 @@
               "title": "Carnivores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,7 +260,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e3dbeaf93deacdff",
+  "active": "8a937d4dd82bf650",
   "lastOpenFiles": [
     "Carnivore Teeth.md",
     "Serrations.md",
