@@ -4,4 +4,6 @@ Walked on hind legs, sharp teeth, some forms lost teeth, toothless beaks, 3 claw
 
 [[Birds]] evolved from Theropods!
 
+A major subclass of Theropods is [[Dromaeosaurs]]
+
 ![[Gorgosaurus.png]]

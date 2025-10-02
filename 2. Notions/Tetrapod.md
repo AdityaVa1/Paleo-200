@@ -1,1 +1,2 @@
-[[Dinosaurs]], mammals, reptiles, and amphibians all belong to a special group of [[Vertebrate]]s known as tetrapods.
+[[Dinosaurs]], mammals, reptiles, and amphibians all belong to a special group of [[Vertebrate]]s known as tetrapods. 
+

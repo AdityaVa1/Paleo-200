@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notions/Ornithopods.md",
+                "file": "Dromaeosaurs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ornithopods"
+              "title": "Dromaeosaurs"
             }
           },
           {
@@ -249,8 +249,12 @@
   },
   "active": "e3dbeaf93deacdff",
   "lastOpenFiles": [
-    "2. Notions/Hadrosauria.md",
+    "2. Notions/Velociraptor.md",
+    "Dromaeosaurs.md",
+    "2. Notions/Theropods.md",
+    "2. Notions/Tetrapod.md",
     "2. Notions/Ornithopods.md",
+    "2. Notions/Hadrosauria.md",
     "2. Notions/Iguanodonts.md",
     "2. Notions/Sauropomorphs (Sauropods).md",
     "2. Notions/Saurischia.md",
@@ -272,10 +276,6 @@
     "2. Notions/Permineralization.md",
     "2. Notions/Replacement.md",
     "2. Notions/Badlands.md",
-    "2. Notions/Prospecting for Fossils.md",
-    "2. Notions/Overburden.md",
-    "2. Notions/Sacrum.md",
-    "2. Notions/Fossil Curation.md",
     "Untitled 1.base",
     "Untitled.base",
     "_templates/presentations/slides-cea",
