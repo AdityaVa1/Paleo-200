@@ -1,0 +1,1 @@
+one large spade-shaped claw on each hand. Its other forelimb claws and fingers were tiny and appear to have been useless.
