@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herbivores.md",
+                "file": "2. Notions/Ornithopods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Herbivores"
-            }
-          },
-          {
-            "id": "8a937d4dd82bf650",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "Ornithopods"
             }
           },
           {
@@ -75,8 +63,7 @@
               "title": "Carnivores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,8 +247,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8a937d4dd82bf650",
+  "active": "e3dbeaf93deacdff",
   "lastOpenFiles": [
+    "2. Notions/Hadrosauria.md",
+    "2. Notions/Ornithopods.md",
+    "2. Notions/Iguanodonts.md",
+    "2. Notions/Sauropomorphs (Sauropods).md",
+    "2. Notions/Saurischia.md",
+    "Herbivores.md",
     "Carnivore Teeth.md",
     "Serrations.md",
     "Serrated.md",
@@ -271,11 +264,8 @@
     "Serrated",
     "Herbivore Teeth.md",
     "Carnivores.md",
-    "Herbivores.md",
-    "2. Notions/Ornithopods.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "2. Notions/Saurischia.md",
     "2. Notions/Protect the Bones.md",
     "2. Notions/Searching for Fossils.md",
     "README.md",
@@ -286,9 +276,6 @@
     "2. Notions/Overburden.md",
     "2. Notions/Sacrum.md",
     "2. Notions/Fossil Curation.md",
-    "2. Notions/Finding Fossils.md",
-    "2. Notions/Dinosaur Skull.md",
-    "2. Notions/Hadrosauria.md",
     "Untitled 1.base",
     "Untitled.base",
     "_templates/presentations/slides-cea",
