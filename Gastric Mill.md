@@ -1,0 +1,1 @@
+Help toothless modern birds and old [[Dinosaurs]] "chew" food, by muscle contractions.
