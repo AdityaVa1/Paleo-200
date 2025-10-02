@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coprolites.md",
+                "file": "2. Notions/Alvarezsaurs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coprolites"
+              "title": "Alvarezsaurs"
             }
           },
           {
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scavenging.md",
+                "file": "2. Notions/Scavenging.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gastroliths.md",
+                "file": "2. Notions/Gastroliths.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bite Marks (𝓯𝓻𝓮𝓪𝓴𝔂).md",
+                "file": "2. Notions/Bite Marks (𝓯𝓻𝓮𝓪𝓴𝔂).md",
                 "mode": "source",
                 "source": false
               },
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Durophagy.md",
+                "file": "2. Notions/Durophagy.md",
                 "mode": "source",
                 "source": false
               },
@@ -292,25 +292,25 @@
   },
   "active": "f378fa6e04f0fc99",
   "lastOpenFiles": [
-    "2. Notions/Tyrannosaurs.md",
-    "Coprolites.md",
-    "Bite Marks (𝓯𝓻𝓮𝓪𝓴𝔂).md",
-    "Gastroliths.md",
-    "Gastric Mill.md",
-    "2. Notions/Theropods.md",
-    "Cololites.md",
-    "Scavenging.md",
-    "Durophagy.md",
-    "Tyrannosaurus rex.md",
+    "2. Notions/Shuvuuia.md",
+    "2. Notions/Alvarezsaurs.md",
     "Untitled.base",
-    "Carnivores.md",
-    "Carnivore Teeth.md",
-    "Carnivore Feeding Strategies.md",
+    "2. Notions/Coprolites.md",
+    "2. Notions/Tyrannosaurs.md",
+    "2. Notions/Bite Marks (𝓯𝓻𝓮𝓪𝓴𝔂).md",
+    "2. Notions/Gastroliths.md",
+    "2. Notions/Gastric Mill.md",
+    "2. Notions/Theropods.md",
+    "2. Notions/Cololites.md",
+    "2. Notions/Scavenging.md",
+    "2. Notions/Durophagy.md",
+    "2. Notions/Tyrannosaurus rex.md",
+    "2. Notions/Carnivores.md",
+    "2. Notions/Carnivore Teeth.md",
+    "2. Notions/Carnivore Feeding Strategies.md",
     "2. Notions/Daspletosaurus.md",
-    "Shuvuuia.md",
-    "Alvarezsaurs.md",
-    "Spinosaurus.md",
-    "Dromaeosaurs.md",
+    "2. Notions/Spinosaurus.md",
+    "2. Notions/Dromaeosaurs.md",
     "2. Notions/Velociraptor.md",
     "2. Notions/Tetrapod.md",
     "2. Notions/Ornithopods.md",
@@ -318,7 +318,6 @@
     "2. Notions/Iguanodonts.md",
     "2. Notions/Sauropomorphs (Sauropods).md",
     "2. Notions/Saurischia.md",
-    "Herbivores.md",
     "Serrated",
     "Untitled 1.base",
     "_templates/presentations/slides-cea",
