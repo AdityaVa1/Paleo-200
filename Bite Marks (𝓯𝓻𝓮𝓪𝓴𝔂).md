@@ -1,0 +1,1 @@
+Tooth mark evidence shows that [[Ceratopsia]]ns and [[Hadrosauria]] were commonly eaten by [[Tyrannosaurs]].
