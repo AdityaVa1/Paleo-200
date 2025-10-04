@@ -1,0 +1,1 @@
+Old teeth's roots undergo [[Resorption]] when new one ready to grow in, [[Tyrannosaurus rex]] replaced each tooth1.5 to 2 years, so common to find 

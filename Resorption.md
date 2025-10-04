@@ -1,0 +1,1 @@
+[[Dinosaurs]] Re-absorb minerals by breaking down its own teeth and bones. Usually happened when they were [[Shedding Teeth]]   
