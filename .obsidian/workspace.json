@@ -13,82 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notions/Tyrannosaurs.md",
+                "file": "Dental Batteries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tyrannosaurs"
-            }
-          },
-          {
-            "id": "f378fa6e04f0fc99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Notions/Herbivore Teeth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Herbivore Teeth"
-            }
-          },
-          {
-            "id": "378117411ffa53e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frugivores.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Frugivores"
-            }
-          },
-          {
-            "id": "d7a1b9748ae642d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Piscivores.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Piscivores"
-            }
-          },
-          {
-            "id": "09827a984dad74e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Notions/Durophagy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Durophagy"
-            }
-          },
-          {
-            "id": "54bd98a5f9574345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shedding Teeth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shedding Teeth"
+              "title": "Dental Batteries"
             }
           },
           {
@@ -161,8 +91,7 @@
               "title": "Durophagy"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"2. Notions\" Tyrann ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -346,22 +275,24 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "54bd98a5f9574345",
+  "active": "722997cb7154eee3",
   "lastOpenFiles": [
-    "Resorption.md",
-    "Shedding Teeth.md",
+    "2. Notions/Hadrosauria.md",
+    "Dental Batteries.md",
+    "2. Notions/Tyrannosaurs.md",
+    "2. Notions/Herbivore Teeth.md",
+    "Frugivores.md",
+    "Piscivores.md",
     "2. Notions/Durophagy.md",
+    "Shedding Teeth.md",
+    "Resorption.md",
     "2. Notions/Carnivore Teeth.md",
     "Insectivores.md",
-    "Piscivores.md",
-    "Frugivores.md",
-    "2. Notions/Herbivore Teeth.md",
     "2. Notions/Herbivores.md",
     "2. Notions/Alvarezsaurs.md",
     "2. Notions/Shuvuuia.md",
     "Untitled.base",
     "2. Notions/Coprolites.md",
-    "2. Notions/Tyrannosaurs.md",
     "2. Notions/Bite Marks (𝓯𝓻𝓮𝓪𝓴𝔂).md",
     "2. Notions/Gastroliths.md",
     "2. Notions/Gastric Mill.md",
@@ -373,8 +304,6 @@
     "2. Notions/Carnivore Feeding Strategies.md",
     "2. Notions/Daspletosaurus.md",
     "2. Notions/Spinosaurus.md",
-    "2. Notions/Dromaeosaurs.md",
-    "2. Notions/Velociraptor.md",
     "Serrated",
     "Untitled 1.base",
     "_templates/presentations/slides-cea",
