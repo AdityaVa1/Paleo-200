@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notions/Alvarezsaurs.md",
+                "file": "2. Notions/Herbivore Teeth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alvarezsaurs"
+              "title": "Herbivore Teeth"
+            }
+          },
+          {
+            "id": "378117411ffa53e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frugivores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frugivores"
             }
           },
           {
@@ -106,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -290,10 +304,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f378fa6e04f0fc99",
+  "active": "378117411ffa53e9",
   "lastOpenFiles": [
-    "2. Notions/Shuvuuia.md",
+    "2. Notions/Herbivore Teeth.md",
+    "Frugivores.md",
+    "2. Notions/Herbivores.md",
     "2. Notions/Alvarezsaurs.md",
+    "2. Notions/Shuvuuia.md",
     "Untitled.base",
     "2. Notions/Coprolites.md",
     "2. Notions/Tyrannosaurs.md",
@@ -316,8 +333,6 @@
     "2. Notions/Ornithopods.md",
     "2. Notions/Hadrosauria.md",
     "2. Notions/Iguanodonts.md",
-    "2. Notions/Sauropomorphs (Sauropods).md",
-    "2. Notions/Saurischia.md",
     "Serrated",
     "Untitled 1.base",
     "_templates/presentations/slides-cea",

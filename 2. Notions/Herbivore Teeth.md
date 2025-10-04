@@ -1,2 +1,1 @@
-
 [[Herbivores]] had thin, ridged teeth and broad, flat teeth.

@@ -1,0 +1,1 @@
+eat primarily fruit, sharp and hooked beak
