@@ -1,1 +1,1 @@
-eat primarily fruit, sharp and hooked beak
+eat primarily fruit, sharp and hooked beak like carnivores because they need to peel fruit
