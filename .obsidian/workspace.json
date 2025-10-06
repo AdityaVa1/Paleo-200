@@ -302,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -486,10 +486,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "075794c4fb85bec8",
+  "active": "853ab74dcf688e67",
   "lastOpenFiles": [
-    "Ichnofossils.md",
     "Trackways.md",
+    "Ichnofossils.md",
     "Trochanter Postion.md",
     "Caudofemoralis.md",
     "Trochanter.md",

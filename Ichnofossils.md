@@ -1,1 +1,1 @@
-Fossilized biological records of activity. Like, foot prints, tooth marks, burrows.
+Fossilized biological records of activity. Like, foot prints, tooth marks, burrows. Usually in mud, and mud dries, buried, and re-surfaced for paleontologist to find.
