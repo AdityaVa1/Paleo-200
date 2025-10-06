@@ -1,0 +1,1 @@
+An [[Erect]] posture type with elongated limbs
