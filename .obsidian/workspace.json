@@ -148,6 +148,34 @@
             }
           },
           {
+            "id": "b4f48743fe4fef19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trochanter Postion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trochanter Postion"
+            }
+          },
+          {
+            "id": "853ab74dcf688e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ichnofossils.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ichnofossils"
+            }
+          },
+          {
             "id": "ed9ea518262f028a",
             "type": "leaf",
             "state": {
@@ -260,7 +288,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -444,10 +472,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8fa0dee938f2be4f",
+  "active": "853ab74dcf688e67",
   "lastOpenFiles": [
-    "Trochanter.md",
+    "Trochanter Postion.md",
+    "Ichnofossils.md",
     "Caudofemoralis.md",
+    "Trochanter.md",
     "Obligate Quadrapeds.md",
     "Facultative Bipeds.md",
     "Obligate Bipeds.md",
@@ -470,8 +500,6 @@
     "Frugivores.md",
     "Piscivores.md",
     "Shedding Teeth.md",
-    "Resorption.md",
-    "2. Notions/Carnivore Teeth.md",
     "Untitled.base",
     "Serrated",
     "Untitled 1.base",
