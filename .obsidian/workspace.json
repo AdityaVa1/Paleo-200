@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dental Batteries.md",
+                "file": "2. Notions/Ornithopods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dental Batteries"
+              "title": "Ornithopods"
             }
           },
           {
@@ -148,6 +148,20 @@
             }
           },
           {
+            "id": "e45c7fa144d08e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obligate Bipeds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obligate Bipeds"
+            }
+          },
+          {
             "id": "19c85cb5018fd18f",
             "type": "leaf",
             "state": {
@@ -218,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -275,7 +289,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 338.5
   },
   "right": {
     "id": "da5a80da022a150f",
@@ -402,14 +416,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0b82037b91ed2768",
+  "active": "b6b0d7585c4e7e8d",
   "lastOpenFiles": [
-    "2. Notions/Ornithopods.md",
-    "2. Notions/Stegosauria.md",
     "Facultative Bipeds.md",
-    "Obligate Quadrapeds.md",
     "Obligate Bipeds.md",
+    "Obligate Quadrapeds.md",
+    "2. Notions/Durophagy.md",
+    "2. Notions/Ornithopods.md",
+    "2. Notions/Hadrosauria.md",
+    "Dental Batteries.md",
     "Graviportal.md",
+    "Dinosaur Ancestor.md",
+    "2. Notions/Stegosauria.md",
     "Plantigrade.md",
     "Digitigrade.md",
     "Unguligrade.md",
@@ -417,19 +435,15 @@
     "Cursorial Limbs.md",
     "Erect.md",
     "Sprawling.md",
-    "Dental Batteries.md",
-    "2. Notions/Hadrosauria.md",
     "2. Notions/Tyrannosaurs.md",
     "2. Notions/Herbivore Teeth.md",
     "Frugivores.md",
     "Piscivores.md",
-    "2. Notions/Durophagy.md",
     "Shedding Teeth.md",
     "Resorption.md",
     "2. Notions/Carnivore Teeth.md",
     "Insectivores.md",
     "2. Notions/Herbivores.md",
-    "2. Notions/Alvarezsaurs.md",
     "Untitled.base",
     "Serrated",
     "Untitled 1.base",

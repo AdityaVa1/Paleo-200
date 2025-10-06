@@ -1,1 +1,3 @@
-Animals that run and walk on two legs
+Animals that run and walk on two legs.
+
+Dinosaurs: [[Theropods]], [[Pachycephalosauria]], some [[Ceratopsia]]
