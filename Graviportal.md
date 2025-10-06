@@ -1,0 +1,1 @@
+[[Cursorial Limbs]] adapted for extreme weight, have soft pads on base of big feet, and dont bend knees too much.
