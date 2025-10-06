@@ -1,0 +1,1 @@
+[[Ichnofossils]] that are a series of dinosaur footprints around one fossil.

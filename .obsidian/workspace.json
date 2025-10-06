@@ -176,6 +176,20 @@
             }
           },
           {
+            "id": "075794c4fb85bec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trackways.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trackways"
+            }
+          },
+          {
             "id": "ed9ea518262f028a",
             "type": "leaf",
             "state": {
@@ -288,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -472,10 +486,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "853ab74dcf688e67",
+  "active": "075794c4fb85bec8",
   "lastOpenFiles": [
-    "Trochanter Postion.md",
     "Ichnofossils.md",
+    "Trackways.md",
+    "Trochanter Postion.md",
     "Caudofemoralis.md",
     "Trochanter.md",
     "Obligate Quadrapeds.md",
@@ -499,7 +514,6 @@
     "2. Notions/Herbivore Teeth.md",
     "Frugivores.md",
     "Piscivores.md",
-    "Shedding Teeth.md",
     "Untitled.base",
     "Serrated",
     "Untitled 1.base",
