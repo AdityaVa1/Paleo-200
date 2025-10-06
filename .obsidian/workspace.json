@@ -232,6 +232,48 @@
             }
           },
           {
+            "id": "3f29f7822adbac1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Osteons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Osteons"
+            }
+          },
+          {
+            "id": "18546e7d6b56ea93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Endotherm Bones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Endotherm Bones"
+            }
+          },
+          {
+            "id": "2be06e21c05654e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gigantothermic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gigantothermic"
+            }
+          },
+          {
             "id": "075794c4fb85bec8",
             "type": "leaf",
             "state": {
@@ -358,7 +400,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -542,12 +584,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7330f31b05b05104",
+  "active": "2be06e21c05654e6",
   "lastOpenFiles": [
+    "Endotherm Bones.md",
+    "Gigantothermic.md",
+    "Osteons.md",
+    "Histology.md",
     "Endotherm.md",
     "Untitled 1.md",
     "Endo vs Ecto-therms.md",
-    "Histology.md",
     "Ectotherms.md",
     "Ichnofossils.md",
     "Trackways.md",
@@ -567,9 +612,6 @@
     "Plantigrade.md",
     "Digitigrade.md",
     "Unguligrade.md",
-    "Cursorial Animals.md",
-    "Cursorial Limbs.md",
-    "Erect.md",
     "Untitled.base",
     "Serrated",
     "Untitled 1.base",

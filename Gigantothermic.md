@@ -1,0 +1,1 @@
+Theory: Some large [[Dinosaurs]] were so big that their surface area increased slower than their volume. So some people think that they retain heat even if they were ectothermic because they would keep most of the heat inside and be able to live endothermic-live active lives
