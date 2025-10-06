@@ -4,6 +4,8 @@ that Endotherms need to feed a lot to maintain energy levels.
 
 advantage:
 
-survive cold, ready for action ([[Ectotherms]] sluggish in cool environments) 
+survive cold, ready for action, no breaks, high activity
 
-[[Endotherms]] drawback:
+[[Ectotherms]] drawback:
+
+sluggish in cool times of day, waste time heating up or cooling down
