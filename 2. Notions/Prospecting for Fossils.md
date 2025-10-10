@@ -1,1 +1,1 @@
-Speculate geologically high erosion areas, prospect for freshly exposed dinosaur bones.
+Speculate geologically high erosion areas, prospect for freshly exposed dinosaur [[Bones]].

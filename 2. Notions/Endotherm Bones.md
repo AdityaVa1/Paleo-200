@@ -1,0 +1,1 @@
+[[Dinosaurs]] had their [[Osteons]] arranged in a manner similar to endotherms, and their [[Bones]] grew fast. That's how we know they were endotherms

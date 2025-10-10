@@ -4,403 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "206526ca94f0ec9a",
+        "id": "8570935f792fd93a",
         "type": "tabs",
         "children": [
           {
-            "id": "e2b1cc40f579ff59",
+            "id": "3e71ce7a1a0591b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notions/Ornithopods.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ornithopods"
-            }
-          },
-          {
-            "id": "d396aa0e3a5d254c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sprawling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sprawling"
-            }
-          },
-          {
-            "id": "a1af5152fa5790f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Erect.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Erect"
-            }
-          },
-          {
-            "id": "91cf37a4b971661e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cursorial Limbs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cursorial Limbs"
-            }
-          },
-          {
-            "id": "f0a22efbeca99534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digitigrade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Digitigrade"
-            }
-          },
-          {
-            "id": "6cd075451fe458c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantigrade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plantigrade"
-            }
-          },
-          {
-            "id": "ff86cbb0c3eb7ad9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graviportal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Graviportal"
-            }
-          },
-          {
-            "id": "c7e62320497afd4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obligate Bipeds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obligate Bipeds"
-            }
-          },
-          {
-            "id": "b6b0d7585c4e7e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obligate Quadrapeds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obligate Quadrapeds"
-            }
-          },
-          {
-            "id": "8fa0dee938f2be4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Caudofemoralis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Caudofemoralis"
-            }
-          },
-          {
-            "id": "b4f48743fe4fef19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trochanter Postion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trochanter Postion"
-            }
-          },
-          {
-            "id": "853ab74dcf688e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ichnofossils.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ichnofossils"
-            }
-          },
-          {
-            "id": "f85080955f904f0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ectotherms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ectotherms"
-            }
-          },
-          {
-            "id": "95fc4e455da363b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Endotherm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Endotherm"
-            }
-          },
-          {
-            "id": "ce3f1d9f92718454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Endo vs Ecto-therms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Endo vs Ecto-therms"
-            }
-          },
-          {
-            "id": "7330f31b05b05104",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Histology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Histology"
-            }
-          },
-          {
-            "id": "3f29f7822adbac1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Osteons.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Osteons"
-            }
-          },
-          {
-            "id": "18546e7d6b56ea93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Endotherm Bones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Endotherm Bones"
-            }
-          },
-          {
-            "id": "2be06e21c05654e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gigantothermic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gigantothermic"
-            }
-          },
-          {
-            "id": "075794c4fb85bec8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trackways.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trackways"
-            }
-          },
-          {
-            "id": "ed9ea518262f028a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trochanter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trochanter"
-            }
-          },
-          {
-            "id": "0b82037b91ed2768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Facultative Bipeds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Facultative Bipeds"
-            }
-          },
-          {
-            "id": "e45c7fa144d08e28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obligate Bipeds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obligate Bipeds"
-            }
-          },
-          {
-            "id": "19c85cb5018fd18f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Notions/Scavenging.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scavenging"
-            }
-          },
-          {
-            "id": "d95088218b9429b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Notions/Theropods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Theropods"
-            }
-          },
-          {
-            "id": "c86e8f0505c6e2d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Notions/Gastroliths.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gastroliths"
-            }
-          },
-          {
-            "id": "bc5b58287e785f8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Notions/Bite Marks (𝓯𝓻𝓮𝓪𝓴𝔂).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bite Marks (𝓯𝓻𝓮𝓪𝓴𝔂)"
-            }
-          },
-          {
-            "id": "2b5eb41046f80cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Notions/Durophagy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Durophagy"
+              "title": "Untitled 1"
             }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -584,34 +205,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2be06e21c05654e6",
+  "active": "3e71ce7a1a0591b8",
   "lastOpenFiles": [
-    "Endotherm Bones.md",
-    "Gigantothermic.md",
-    "Osteons.md",
-    "Histology.md",
-    "Endotherm.md",
-    "Untitled 1.md",
-    "Endo vs Ecto-therms.md",
-    "Ectotherms.md",
-    "Ichnofossils.md",
-    "Trackways.md",
-    "Trochanter Postion.md",
-    "Caudofemoralis.md",
-    "Trochanter.md",
-    "Obligate Quadrapeds.md",
-    "Facultative Bipeds.md",
-    "Obligate Bipeds.md",
+    "2. Notions/Ilium.md",
+    "2. Notions/Trochanter.md",
     "2. Notions/Durophagy.md",
+    "2. Notions/Prospecting for Fossils.md",
+    "2. Notions/Histology.md",
+    "2. Notions/Endotherm Bones.md",
+    "2. Notions/Caudofemoralis.md",
+    "2. Notions/Bite Marks (𝓯𝓻𝓮𝓪𝓴𝔂).md",
+    "2. Notions/Gastroliths.md",
+    "2. Notions/Theropods.md",
+    "2. Notions/Scavenging.md",
+    "2. Notions/Obligate Bipeds.md",
+    "2. Notions/Facultative Bipeds.md",
+    "2. Notions/Trackways.md",
     "2. Notions/Ornithopods.md",
-    "2. Notions/Hadrosauria.md",
-    "Dental Batteries.md",
-    "Graviportal.md",
-    "Dinosaur Ancestor.md",
-    "2. Notions/Stegosauria.md",
-    "Plantigrade.md",
-    "Digitigrade.md",
-    "Unguligrade.md",
+    "2. Notions/Sprawling.md",
+    "2. Notions/Erect.md",
+    "2. Notions/Cursorial Limbs.md",
+    "2. Notions/Digitigrade.md",
+    "2. Notions/Plantigrade.md",
+    "2. Notions/Graviportal.md",
+    "2. Notions/Obligate Quadrapeds.md",
+    "2. Notions/Trochanter Postion.md",
+    "2. Notions/Ichnofossils.md",
+    "2. Notions/Ectotherms.md",
+    "2. Notions/Endotherm.md",
     "Untitled.base",
     "Serrated",
     "Untitled 1.base",

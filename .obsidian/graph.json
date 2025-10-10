@@ -5,8 +5,16 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "line:(bone))",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.3,
@@ -17,6 +25,6 @@
   "repelStrength": 9.25155925155925,
   "linkStrength": 0.487525987525988,
   "linkDistance": 257,
-  "scale": 0.6081899047943858,
+  "scale": 0.4338069357045122,
   "close": false
 }
