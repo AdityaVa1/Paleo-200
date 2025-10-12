@@ -4,3 +4,4 @@ But in Mongolia, which used to be a desert, a river ran through creating a large
 
 [[Fossil]]s are rarely found in [[Sediments]] representing ancient deserts, because not enough sediment would be deposited.
 
+Mongolia is an exception, it was a sand swept desert, but a river ran trough it, creating an deltaic plain which made an oasis. [[Dinosaurs]] had the chance to be buried here and get covered with [[Sediments]] from the river. Also by sand dunes collapsing suddenly after rainfall.
