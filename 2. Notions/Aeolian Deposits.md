@@ -2,4 +2,5 @@
 
 But in Mongolia, which used to be a desert, a river ran through creating a large deltaic oasis [[Fluvial Deposits]] formed on these carcasses.  
 
-[[Fossil]]s are rarely found in [[Sediments]] representing ancient deserts
+[[Fossil]]s are rarely found in [[Sediments]] representing ancient deserts, because not enough sediment would be deposited.
+

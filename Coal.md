@@ -1,1 +1,1 @@
-[[Sedimentary Rocks]] 
+[[Sedimentary Rock]] forms from compressed remains of plants, indicates former swamp environment.

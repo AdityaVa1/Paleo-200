@@ -1,1 +1,1 @@
-[[Sedimentary Rocks]] that form from mud and silt, indicates former lake bottom
+[[Sedimentary Rock]] that form from mud and silt, indicates former lake bottom

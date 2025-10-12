@@ -1,0 +1,1 @@
+[[Sedimentary Rock]] formed from exoskeletons and shells of crustaceans, indicate former shallow marine environment. 

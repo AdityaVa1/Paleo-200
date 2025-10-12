@@ -1,1 +1,1 @@
-[[Sedimentary Rocks]] that form from sand, indicate former beach, river, or ocean floor 
+[[Sedimentary Rock]] that form from sand, indicate former beach, river, or ocean floor 
