@@ -1,1 +1,1 @@
-Posture standing on toenails, evolved to form [[Unguligrade]] posture
+Posture standing on toenails, evolved to [[Unguligrade]] posture
