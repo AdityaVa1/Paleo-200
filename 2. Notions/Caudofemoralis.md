@@ -1,4 +1,4 @@
-Muscle attached to back of [[Ilium]] and the [[Caudal Vertebrae]] and [[Chevrons]]. Attached via tendon to femer
+Muscle attached to back of [[Ilium]] and the [[Caudal Vertebrae]] and [[Chevron]]. Attached via tendon to femur
 
 Used for pulling hind limbs back towards tail. Means [[Dinosaurs]] were good at running.
 
