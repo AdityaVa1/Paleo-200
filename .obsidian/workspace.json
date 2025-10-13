@@ -12,10 +12,14 @@
             "id": "3e71ce7a1a0591b8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2. Notions/Obligate Bipeds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obligate Bipeds"
             },
             "group": "4b9217de295952d4"
           },
@@ -88,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Notions/Ornithopods.md",
+                "file": "2. Notions/Obligate Bipeds.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -116,7 +120,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ornithopods"
+              "title": "Graph of Obligate Bipeds"
             },
             "group": "4b9217de295952d4"
           }
@@ -306,12 +310,20 @@
   },
   "active": "3e71ce7a1a0591b8",
   "lastOpenFiles": [
-    "2. Notions/Ornithopods.md",
+    "2. Notions/Muscles (In Dinosaurs).md",
+    "2. Notions/Lacustrine Deposits.md",
+    "2. Notions/Ischium.md",
+    "2. Notions/Integumentary Structures.md",
+    "2. Notions/Insectivores.md",
+    "2. Notions/Ilium.md",
+    "2. Notions/Iguanodonts.md",
+    "2. Notions/Ichnofossils.md",
+    "2. Notions/Histology.md",
     "2. Notions/Hip.md",
+    "2. Notions/Fossil Curation.md",
+    "2. Notions/Ornithopods.md",
     "2. Notions/Pubis.md",
     "2. Notions/Herbivores.md",
-    "2. Notions/Ischium.md",
-    "2. Notions/Ilium.md",
     "2. Notions/Sacrum.md",
     "2. Notions/Herbivore Teeth.md",
     "2. Notions/Hard Work.md",
@@ -323,15 +335,7 @@
     "2. Notions/Gastralia.md",
     "2. Notions/Frugivores.md",
     "2. Notions/Fossilization.md",
-    "2. Notions/Fossil Curation.md",
     "2. Notions/Protect the Bones.md",
-    "2. Notions/Overburden.md",
-    "2. Notions/Prospecting for Fossils.md",
-    "2. Notions/Fossil.md",
-    "2. Notions/Forelimbs.md",
-    "2. Notions/Fluvial Deposits.md",
-    "2. Notions/Finding Fossils.md",
-    "2. Notions/Fenestrae.md",
     "Untitled.base",
     "Serrated",
     "Untitled 1.base",
