@@ -6,7 +6,7 @@
       {
         "id": "8570935f792fd93a",
         "type": "tabs",
-        "dimension": 41.492776886035315,
+        "dimension": 36.02225312934631,
         "children": [
           {
             "id": "3e71ce7a1a0591b8",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notions/Ribs (Dinosaurs).md",
+                "file": "2. Notions/Sedimentary Rocks (Fossils).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ribs (Dinosaurs)"
+              "title": "Sedimentary Rocks (Fossils)"
             },
             "group": "4b9217de295952d4"
           },
@@ -71,20 +71,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mudstone and Shale.md",
+                "file": "2. Notions/Spinosaurus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mudstone and Shale"
+              "title": "Spinosaurus"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "42985aeec72a8598",
         "type": "tabs",
-        "dimension": 58.50722311396469,
+        "dimension": 63.97774687065368,
         "children": [
           {
             "id": "79b8b30b29065486",
@@ -92,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Notions/Ribs (Dinosaurs).md",
+                "file": "2. Notions/Sedimentary Rocks (Fossils).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +121,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ribs (Dinosaurs)"
+              "title": "Graph of Sedimentary Rocks (Fossils)"
             },
             "group": "4b9217de295952d4"
           }
@@ -308,8 +309,24 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3e71ce7a1a0591b8",
+  "active": "21de05813c9c2dff",
   "lastOpenFiles": [
+    "2. Notions/Shuvuuia.md",
+    "2. Notions/Shedding Teeth.md",
+    "2. Notions/Serrations.md",
+    "2. Notions/Serrated.md",
+    "2. Notions/Sedimentology.md",
+    "2. Notions/Sedimentary Rocks (Fossils).md",
+    "2. Notions/Searching for Fossils.md",
+    "Mudstone and Shale.md",
+    "Sandstone.md",
+    "Coal.md",
+    "Limestone.md",
+    "Sedimentary Rock.md",
+    "2. Notions/Scavenging.md",
+    "2. Notions/Sauropomorphs (Sauropods).md",
+    "2. Notions/Saurischia.md",
+    "2. Notions/Ribs (Dinosaurs).md",
     "2. Notions/Resorption.md",
     "2. Notions/Replacement.md",
     "2. Notions/Protect the Bones.md",
@@ -320,22 +337,6 @@
     "2. Notions/Plantigrade.md",
     "2. Notions/Piscivores.md",
     "2. Notions/Pelvic Girdles.md",
-    "2. Notions/Pectoral Girdles.md",
-    "2. Notions/Pachycephalosauria.md",
-    "2. Notions/Overburden.md",
-    "2. Notions/Osteons.md",
-    "2. Notions/Osteoderms.md",
-    "2. Notions/Dromaeosaurs.md",
-    "2. Notions/Bones.md",
-    "2. Notions/Ornithopods.md",
-    "2. Notions/Orbits.md",
-    "2. Notions/Obligate Quadrapeds.md",
-    "2. Notions/Obligate Bipeds.md",
-    "2. Notions/Muscles (In Dinosaurs).md",
-    "2. Notions/Lacustrine Deposits.md",
-    "2. Notions/Ischium.md",
-    "2. Notions/Integumentary Structures.md",
-    "2. Notions/Insectivores.md",
     "Untitled.base",
     "Serrated",
     "Untitled 1.base",
