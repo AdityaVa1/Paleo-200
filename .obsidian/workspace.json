@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notions/Endotherm.md",
+                "file": "2. Notions/Fenestrae.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Endotherm"
+              "title": "Fenestrae"
             },
             "group": "4b9217de295952d4"
           },
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Notions/Endotherm.md",
+                "file": "2. Notions/Fenestrae.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Endotherm"
+              "title": "Graph of Fenestrae"
             },
             "group": "4b9217de295952d4"
           }
@@ -310,6 +310,13 @@
   },
   "active": "3e71ce7a1a0591b8",
   "lastOpenFiles": [
+    "2. Notions/Feathers (Dinosaurs).md",
+    "2. Notions/Endotherm Bones.md",
+    "2. Notions/Melanosomes.md",
+    "2. Notions/Feather Colors.md",
+    "2. Notions/Facultative Bipeds.md",
+    "2. Notions/Erect.md",
+    "2. Notions/Endotherm.md",
     "2. Notions/Endo vs Ecto-therms.md",
     "2. Notions/Ectotherms.md",
     "2. Notions/Durophagy.md",
@@ -329,13 +336,6 @@
     "2. Notions/Coprolites.md",
     "2. Notions/Cololites.md",
     "2. Notions/Chevron.md",
-    "2. Notions/Cervical Vertebrae.md",
-    "2. Notions/Ceratopsia.md",
-    "2. Notions/Caudofemoralis.md",
-    "2. Notions/Caudal Vertebrae.md",
-    "2. Notions/Bite Marks (𝓯𝓻𝓮𝓪𝓴𝔂).md",
-    "2. Notions/Carnivore Claws.md",
-    "2. Notions/Carnivores.md",
     "Untitled.base",
     "Serrated",
     "Untitled 1.base",
