@@ -1,1 +1,1 @@
-Help toothless modern birds and old [[Dinosaurs]] "chew" food, by muscle contractions.
+Help toothless modern birds and old [[Dinosaurs]] "chew" food, by contraction of stomach muscles with rocks inside.
