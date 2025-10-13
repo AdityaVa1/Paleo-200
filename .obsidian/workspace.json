@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notions/Durophagy.md",
+                "file": "2. Notions/Endotherm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Durophagy"
+              "title": "Endotherm"
             },
             "group": "4b9217de295952d4"
           },
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Notions/Durophagy.md",
+                "file": "2. Notions/Endotherm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Durophagy"
+              "title": "Graph of Endotherm"
             },
             "group": "4b9217de295952d4"
           }
@@ -310,6 +310,9 @@
   },
   "active": "3e71ce7a1a0591b8",
   "lastOpenFiles": [
+    "2. Notions/Endo vs Ecto-therms.md",
+    "2. Notions/Ectotherms.md",
+    "2. Notions/Durophagy.md",
     "2. Notions/Dromaeosaurs.md",
     "2. Notions/Dorsal Vertebrae.md",
     "2. Notions/Dinosaurs.md",
@@ -333,9 +336,6 @@
     "2. Notions/Bite Marks (𝓯𝓻𝓮𝓪𝓴𝔂).md",
     "2. Notions/Carnivore Claws.md",
     "2. Notions/Carnivores.md",
-    "2. Notions/Carnivore Feeding Strategies.md",
-    "2. Notions/Carnivore Teeth.md",
-    "2. Notions/Bones.md",
     "Untitled.base",
     "Serrated",
     "Untitled 1.base",
