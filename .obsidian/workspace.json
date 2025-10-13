@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notions/Gastroliths.md",
+                "file": "2. Notions/Ornithopods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gastroliths"
+              "title": "Ornithopods"
             },
             "group": "4b9217de295952d4"
           },
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Notions/Gastroliths.md",
+                "file": "2. Notions/Ornithopods.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Gastroliths"
+              "title": "Graph of Ornithopods"
             },
             "group": "4b9217de295952d4"
           }
@@ -310,6 +310,18 @@
   },
   "active": "3e71ce7a1a0591b8",
   "lastOpenFiles": [
+    "2. Notions/Hip.md",
+    "2. Notions/Pubis.md",
+    "2. Notions/Herbivores.md",
+    "2. Notions/Ischium.md",
+    "2. Notions/Ilium.md",
+    "2. Notions/Sacrum.md",
+    "2. Notions/Herbivore Teeth.md",
+    "2. Notions/Hard Work.md",
+    "2. Notions/Hadrosauria.md",
+    "2. Notions/Graviportal.md",
+    "2. Notions/Gigantothermic.md",
+    "2. Notions/Gastroliths.md",
     "2. Notions/Gastric Mill.md",
     "2. Notions/Gastralia.md",
     "2. Notions/Frugivores.md",
@@ -324,18 +336,6 @@
     "2. Notions/Finding Fossils.md",
     "2. Notions/Fenestrae.md",
     "2. Notions/Feathers (Dinosaurs).md",
-    "2. Notions/Endotherm Bones.md",
-    "2. Notions/Melanosomes.md",
-    "2. Notions/Feather Colors.md",
-    "2. Notions/Facultative Bipeds.md",
-    "2. Notions/Erect.md",
-    "2. Notions/Endotherm.md",
-    "2. Notions/Endo vs Ecto-therms.md",
-    "2. Notions/Ectotherms.md",
-    "2. Notions/Durophagy.md",
-    "2. Notions/Dromaeosaurs.md",
-    "2. Notions/Dorsal Vertebrae.md",
-    "2. Notions/Dinosaurs.md",
     "Untitled.base",
     "Serrated",
     "Untitled 1.base",
