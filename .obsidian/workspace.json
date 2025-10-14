@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notions/Ceratopsia.md",
+                "file": "2. Notions/Dental Batteries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ceratopsia"
+              "title": "Dental Batteries"
             },
             "group": "4b9217de295952d4"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Notions/Ceratopsia.md",
+                "file": "2. Notions/Dental Batteries.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ceratopsia"
+              "title": "Graph of Dental Batteries"
             },
             "group": "4b9217de295952d4"
           }
@@ -254,8 +254,18 @@
   },
   "active": "3e71ce7a1a0591b8",
   "lastOpenFiles": [
-    "2. Notions/Facultative Bipeds.md",
+    "2. Notions/Daspletosaurus.md",
+    "2. Notions/Cursorial Animals.md",
+    "2. Notions/Cursorial Limbs.md",
+    "2. Notions/Digitigrade.md",
+    "2. Notions/Coprolites.md",
+    "2. Notions/Cololites.md",
+    "2. Notions/Coastal Environments.md",
+    "2. Notions/Lacustrine Deposits.md",
+    "2. Notions/Chevron.md",
+    "2. Notions/Cervical Vertebrae.md",
     "2. Notions/Ceratopsia.md",
+    "2. Notions/Facultative Bipeds.md",
     "2. Notions/Obligate Bipeds.md",
     "2. Notions/Caudofemoralis.md",
     "2. Notions/Caudal Vertebrae.md",
@@ -270,16 +280,6 @@
     "2. Notions/Badlands.md",
     "2. Notions/Appendicular Skeleton.md",
     "2. Notions/Ankylosauria.md",
-    "2. Notions/Shuvuuia.md",
-    "2. Notions/Alvarezsaurs.md",
-    "2. Notions/Aeolian Deposits.md",
-    "Sandstone.md",
-    "2. Notions/Acetabulum.md",
-    "2. Notions/Sedimentary Rocks (Fossils).md",
-    "Limestone.md",
-    "Coal.md",
-    "2. Notions/Vertebrate.md",
-    "2. Notions/Vertebral Processes.md",
     "Untitled.base",
     "Serrated",
     "Untitled 1.base",
