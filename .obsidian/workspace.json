@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notions/Caudofemoralis.md",
+                "file": "2. Notions/Ceratopsia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caudofemoralis"
+              "title": "Ceratopsia"
             },
             "group": "4b9217de295952d4"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Notions/Caudofemoralis.md",
+                "file": "2. Notions/Ceratopsia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -59,12 +59,12 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.32133638605035747,
+                  "scale": 0.4505081176757799,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Caudofemoralis"
+              "title": "Graph of Ceratopsia"
             },
             "group": "4b9217de295952d4"
           }
@@ -254,7 +254,12 @@
   },
   "active": "3e71ce7a1a0591b8",
   "lastOpenFiles": [
+    "2. Notions/Facultative Bipeds.md",
+    "2. Notions/Ceratopsia.md",
+    "2. Notions/Obligate Bipeds.md",
+    "2. Notions/Caudofemoralis.md",
     "2. Notions/Caudal Vertebrae.md",
+    "2. Notions/Trochanter.md",
     "2. Notions/Carnivores.md",
     "2. Notions/Carnivore Teeth.md",
     "2. Notions/Carnivore Feeding Strategies.md",
@@ -275,11 +280,6 @@
     "Coal.md",
     "2. Notions/Vertebrate.md",
     "2. Notions/Vertebral Processes.md",
-    "2. Notions/Vertebral Column.md",
-    "2. Notions/Vertebrae.md",
-    "2. Notions/Velociraptor.md",
-    "2. Notions/Unguligrade.md",
-    "2. Notions/Tyrannosaurus rex.md",
     "Untitled.base",
     "Serrated",
     "Untitled 1.base",
