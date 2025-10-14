@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notions/Acetabulum.md",
+                "file": "2. Notions/Shuvuuia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acetabulum"
+              "title": "Shuvuuia"
             },
             "group": "4b9217de295952d4"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Notions/Acetabulum.md",
+                "file": "2. Notions/Shuvuuia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Acetabulum"
+              "title": "Graph of Shuvuuia"
             },
             "group": "4b9217de295952d4"
           }
@@ -254,12 +254,14 @@
   },
   "active": "3e71ce7a1a0591b8",
   "lastOpenFiles": [
-    "2. Notions/Bones.md",
+    "2. Notions/Alvarezsaurs.md",
+    "2. Notions/Aeolian Deposits.md",
+    "Sandstone.md",
     "2. Notions/Acetabulum.md",
+    "2. Notions/Bones.md",
     "2. Notions/Sedimentary Rocks (Fossils).md",
     "Limestone.md",
     "Coal.md",
-    "Sandstone.md",
     "2. Notions/Vertebrate.md",
     "2. Notions/Vertebral Processes.md",
     "2. Notions/Vertebral Column.md",
@@ -278,8 +280,6 @@
     "2. Notions/Spinosaurus.md",
     "2. Notions/Shuvuuia.md",
     "2. Notions/Shedding Teeth.md",
-    "2. Notions/Serrations.md",
-    "2. Notions/Serrated.md",
     "Untitled.base",
     "Serrated",
     "Untitled 1.base",
