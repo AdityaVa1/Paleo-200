@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notions/Dental Batteries.md",
+                "file": "Processing plants.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dental Batteries"
+              "title": "Processing plants"
             },
             "group": "4b9217de295952d4"
           },
@@ -37,8 +37,7 @@
               "title": "Processing plants"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "42985aeec72a8598",
@@ -51,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Notions/Dental Batteries.md",
+                "file": "Processing plants.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dental Batteries"
+              "title": "Graph of Processing plants"
             },
             "group": "4b9217de295952d4"
           }
@@ -267,12 +266,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2ee8bedca45f6ff1",
+  "active": "3e71ce7a1a0591b8",
   "lastOpenFiles": [
-    "2. Notions/Gastroliths.md",
-    "Processing plants.md",
     "2. Notions/Dental Batteries.md",
     "2. Notions/Daspletosaurus.md",
+    "Processing plants.md",
+    "2. Notions/Gastroliths.md",
     "2. Notions/Cursorial Animals.md",
     "2. Notions/Cursorial Limbs.md",
     "2. Notions/Digitigrade.md",
