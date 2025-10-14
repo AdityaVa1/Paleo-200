@@ -125,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 421.5
   },
   "right": {
     "id": "da5a80da022a150f",
@@ -252,13 +252,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "79b8b30b29065486",
+  "active": "3e71ce7a1a0591b8",
   "lastOpenFiles": [
+    "2. Notions/Bones.md",
+    "2. Notions/Acetabulum.md",
     "2. Notions/Sedimentary Rocks (Fossils).md",
     "Limestone.md",
     "Coal.md",
     "Sandstone.md",
-    "2. Notions/Acetabulum.md",
     "2. Notions/Vertebrate.md",
     "2. Notions/Vertebral Processes.md",
     "2. Notions/Vertebral Column.md",
@@ -279,7 +280,6 @@
     "2. Notions/Shedding Teeth.md",
     "2. Notions/Serrations.md",
     "2. Notions/Serrated.md",
-    "2. Notions/Sedimentology.md",
     "Untitled.base",
     "Serrated",
     "Untitled 1.base",
