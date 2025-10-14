@@ -3,3 +3,5 @@ Dense row of teeth, helped herbivores like [[Hadrosauria]] and [[Ceratopsia]] to
 Causes teeth to grind down quickly.
 
 Hadrosaurs chewed by moving their jaw back and forth
+
+Ceratopsians had their teeth like scissors.
