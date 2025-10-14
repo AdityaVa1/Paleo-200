@@ -6,7 +6,7 @@
       {
         "id": "8570935f792fd93a",
         "type": "tabs",
-        "dimension": 59.14927768860353,
+        "dimension": 50.280373831775705,
         "children": [
           {
             "id": "3e71ce7a1a0591b8",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notions/Shuvuuia.md",
+                "file": "2. Notions/Bones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shuvuuia"
+              "title": "Bones"
             },
             "group": "4b9217de295952d4"
           }
@@ -28,7 +28,7 @@
       {
         "id": "42985aeec72a8598",
         "type": "tabs",
-        "dimension": 40.85072231139647,
+        "dimension": 49.7196261682243,
         "children": [
           {
             "id": "79b8b30b29065486",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Notions/Shuvuuia.md",
+                "file": "2. Notions/Bones.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -59,12 +59,12 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.45050811767578003,
+                  "scale": 0.32133638605035747,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Shuvuuia"
+              "title": "Graph of Bones"
             },
             "group": "4b9217de295952d4"
           }
@@ -254,6 +254,13 @@
   },
   "active": "3e71ce7a1a0591b8",
   "lastOpenFiles": [
+    "2. Notions/Bloat and Float.md",
+    "2. Notions/Bite Marks (𝓯𝓻𝓮𝓪𝓴𝔂).md",
+    "2. Notions/Birds.md",
+    "2. Notions/Badlands.md",
+    "2. Notions/Appendicular Skeleton.md",
+    "2. Notions/Ankylosauria.md",
+    "2. Notions/Shuvuuia.md",
     "2. Notions/Alvarezsaurs.md",
     "2. Notions/Aeolian Deposits.md",
     "Sandstone.md",
@@ -273,13 +280,6 @@
     "2. Notions/Trochanter Postion.md",
     "2. Notions/Trochanter.md",
     "2. Notions/Trackways.md",
-    "2. Notions/Theropods.md",
-    "2. Notions/Tetrapod.md",
-    "2. Notions/Taphonomy.md",
-    "2. Notions/Sprawling.md",
-    "2. Notions/Spinosaurus.md",
-    "2. Notions/Shuvuuia.md",
-    "2. Notions/Shedding Teeth.md",
     "Untitled.base",
     "Serrated",
     "Untitled 1.base",
