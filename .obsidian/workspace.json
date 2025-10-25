@@ -4,83 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8570935f792fd93a",
+        "id": "4b1b12bead631fc3",
         "type": "tabs",
-        "dimension": 50.280373831775705,
         "children": [
           {
-            "id": "3e71ce7a1a0591b8",
+            "id": "0c992ff64877a04c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Notions/Alvarezsaurs.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Alvarezsaurs"
-            },
-            "group": "4b9217de295952d4"
-          },
-          {
-            "id": "2ee8bedca45f6ff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Processing plants.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Processing plants"
+              "title": "New tab"
             }
-          }
-        ]
-      },
-      {
-        "id": "42985aeec72a8598",
-        "type": "tabs",
-        "dimension": 49.7196261682243,
-        "children": [
-          {
-            "id": "79b8b30b29065486",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "2. Notions/Alvarezsaurs.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -1,
-                  "nodeSizeMultiplier": 0.960810810810811,
-                  "lineSizeMultiplier": 1.99989604989605,
-                  "collapse-forces": true,
-                  "centerStrength": 0.782744282744283,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 0.3213363860503573,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Alvarezsaurs"
-            },
-            "group": "4b9217de295952d4"
           }
         ]
       }
@@ -266,8 +201,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3e71ce7a1a0591b8",
+  "active": "0c992ff64877a04c",
   "lastOpenFiles": [
+    "Processing plants.md",
+    "Untitled.base",
+    "2. Notions/Alvarezsaurs.md",
     "2. Notions/Fluvial Deposits.md",
     "2. Notions/Finding Fossils.md",
     "2. Notions/Fenestrae.md",
@@ -285,16 +223,12 @@
     "2. Notions/Dinosaur Skull.md",
     "2. Notions/Dinosaur Ancestor.md",
     "2. Notions/Digitigrade.md",
-    "Processing plants.md",
     "2. Notions/Dental Batteries.md",
     "2. Notions/Daspletosaurus.md",
     "2. Notions/Gastroliths.md",
     "2. Notions/Cursorial Animals.md",
     "2. Notions/Cursorial Limbs.md",
     "2. Notions/Coprolites.md",
-    "2. Notions/Cololites.md",
-    "2. Notions/Coastal Environments.md",
-    "Untitled.base",
     "Serrated",
     "Untitled 1.base",
     "_templates/presentations/slides-cea",
