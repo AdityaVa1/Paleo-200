@@ -1,0 +1,1 @@
+Trait part of genetic code that can get copied to the offspring
