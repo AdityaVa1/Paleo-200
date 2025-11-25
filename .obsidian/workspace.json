@@ -11,10 +11,10 @@
             "id": "0c992ff64877a04c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -203,9 +203,13 @@
   },
   "active": "0c992ff64877a04c",
   "lastOpenFiles": [
+    "2. Notions/Appendicular Skeleton.md",
+    "2. Notions/Ankylosauria.md",
+    "2. Notions/Alvarezsaurs.md",
+    "2. Notions/Aeolian Deposits.md",
+    "2. Notions/Acetabulum.md",
     "Processing plants.md",
     "Untitled.base",
-    "2. Notions/Alvarezsaurs.md",
     "2. Notions/Fluvial Deposits.md",
     "2. Notions/Finding Fossils.md",
     "2. Notions/Fenestrae.md",
@@ -226,9 +230,6 @@
     "2. Notions/Dental Batteries.md",
     "2. Notions/Daspletosaurus.md",
     "2. Notions/Gastroliths.md",
-    "2. Notions/Cursorial Animals.md",
-    "2. Notions/Cursorial Limbs.md",
-    "2. Notions/Coprolites.md",
     "Serrated",
     "Untitled 1.base",
     "_templates/presentations/slides-cea",
