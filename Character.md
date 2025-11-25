@@ -1,0 +1,1 @@
+Any heritable trait that can be described and labeled

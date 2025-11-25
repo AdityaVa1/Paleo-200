@@ -22,6 +22,48 @@
             }
           },
           {
+            "id": "018d48ab430e8c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to find common ancestor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to find common ancestor"
+            }
+          },
+          {
+            "id": "086f8bc846b66a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shared Derived Character.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shared Derived Character"
+            }
+          },
+          {
+            "id": "591dbc20bc67f7b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character"
+            }
+          },
+          {
             "id": "f5c698a6f9ec8caa",
             "type": "leaf",
             "state": {
@@ -35,7 +77,8 @@
               "title": "Heritable"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,10 +262,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "740b1c1b2819bc4b",
+  "active": "086f8bc846b66a2b",
   "lastOpenFiles": [
-    "Heritable.md",
+    "Shared Derived Character.md",
+    "How to find common ancestor.md",
+    "Character.md",
     "Evolution.md",
+    "Heritable.md",
     "Untitled.base",
     "2. Notions/midterm/Acetabulum.md",
     "2. Notions/final/chapter8/Evolution.md",
@@ -248,9 +294,6 @@
     "2. Notions/midterm/Durophagy.md",
     "2. Notions/midterm/Dromaeosaurs.md",
     "2. Notions/midterm/Vertebral Processes.md",
-    "2. Notions/midterm/Dorsal Vertebrae.md",
-    "2. Notions/midterm/Dinosaurs.md",
-    "2. Notions/midterm/Dinosaur Skull.md",
     "Serrated",
     "Untitled 1.base",
     "_templates/presentations/slides-cea",
