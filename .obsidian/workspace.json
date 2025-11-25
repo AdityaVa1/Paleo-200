@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "0bbca6a6a8c71786",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
             "id": "086f8bc846b66a2b",
             "type": "leaf",
             "state": {
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -290,7 +302,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "615ace74ffcdba13",
+  "active": "0bbca6a6a8c71786",
   "lastOpenFiles": [
     "Phylogenetic Trees.md",
     "Clade.md",
