@@ -71,7 +71,8 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
+            },
+            "group": "e47459429da97fa9"
           },
           {
             "id": "086f8bc846b66a2b",
@@ -117,6 +118,50 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "f5c4ed92013c9f96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec6e8c796a073eaf",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2. Notions/midterm/Theropods.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Theropods"
+            },
+            "group": "e47459429da97fa9"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -300,7 +345,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0bbca6a6a8c71786",
+  "active": "ec6e8c796a073eaf",
   "lastOpenFiles": [
     "Phylogenetic Trees.md",
     "Clade.md",
