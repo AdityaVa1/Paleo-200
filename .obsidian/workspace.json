@@ -6,6 +6,7 @@
       {
         "id": "f01a75902a1c8ada",
         "type": "tabs",
+        "dimension": 44.57943925233645,
         "children": [
           {
             "id": "740b1c1b2819bc4b",
@@ -67,12 +68,28 @@
             "id": "0bbca6a6a8c71786",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2. Notions/midterm/Ankylosauria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ankylosauria"
             },
             "group": "e47459429da97fa9"
+          },
+          {
+            "id": "e2ba0c3dfe99f1aa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           },
           {
             "id": "086f8bc846b66a2b",
@@ -117,19 +134,20 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
-        "id": "f5c4ed92013c9f96",
+        "id": "5671a55e5aed6464",
         "type": "tabs",
+        "dimension": 55.42056074766355,
         "children": [
           {
-            "id": "ec6e8c796a073eaf",
+            "id": "e8303541dd5720e2",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Notions/midterm/Theropods.md",
+                "file": "2. Notions/midterm/Ankylosauria.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,12 +170,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.188872356549792,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Theropods"
+              "title": "Graph of Ankylosauria"
             },
             "group": "e47459429da97fa9"
           }
@@ -345,7 +363,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ec6e8c796a073eaf",
+  "active": "e2ba0c3dfe99f1aa",
   "lastOpenFiles": [
     "Phylogenetic Trees.md",
     "Clade.md",
