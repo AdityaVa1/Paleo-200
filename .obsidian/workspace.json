@@ -6,7 +6,6 @@
       {
         "id": "f01a75902a1c8ada",
         "type": "tabs",
-        "dimension": 44.57943925233645,
         "children": [
           {
             "id": "740b1c1b2819bc4b",
@@ -76,19 +75,28 @@
               },
               "icon": "lucide-file",
               "title": "Ankylosauria"
-            },
-            "group": "e47459429da97fa9"
+            }
           },
           {
             "id": "e2ba0c3dfe99f1aa",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "5d8fdc15f5c1fbce",
+            "type": "leaf",
+            "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.10.6"
+                "currentVersion": "1.11.4"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "title": "Release Notes 1.11.4"
             }
           },
           {
@@ -134,52 +142,7 @@
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "5671a55e5aed6464",
-        "type": "tabs",
-        "dimension": 55.42056074766355,
-        "children": [
-          {
-            "id": "e8303541dd5720e2",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "2. Notions/midterm/Ankylosauria.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.188872356549792,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Ankylosauria"
-            },
-            "group": "e47459429da97fa9"
-          }
-        ]
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -236,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 223.5
   },
   "right": {
     "id": "da5a80da022a150f",
@@ -363,7 +326,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e2ba0c3dfe99f1aa",
+  "active": "5d8fdc15f5c1fbce",
   "lastOpenFiles": [
     "Phylogenetic Trees.md",
     "Clade.md",
