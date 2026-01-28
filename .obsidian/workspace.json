@@ -91,12 +91,10 @@
             "id": "5d8fdc15f5c1fbce",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -142,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -199,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 223.5,
+    "collapsed": true
   },
   "right": {
     "id": "da5a80da022a150f",
@@ -326,40 +325,41 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5d8fdc15f5c1fbce",
+  "active": "086f8bc846b66a2b",
   "lastOpenFiles": [
-    "Phylogenetic Trees.md",
-    "Clade.md",
-    "Shared Derived Character.md",
-    "How to find common ancestor.md",
-    "Character.md",
-    "Evolution.md",
-    "Heritable.md",
-    "Untitled.base",
-    "2. Notions/midterm/Acetabulum.md",
-    "2. Notions/final/chapter8/Evolution.md",
-    "2. Notions/final/chapter8",
-    "2. Notions/final",
-    "2. Notions/midterm/Sediments.md",
-    "2. Notions/midterm",
-    "2. Notions/midterm/Coal.md",
-    "2. Notions/midterm/Appendicular Skeleton.md",
-    "2. Notions/midterm/Ankylosauria.md",
-    "2. Notions/midterm/Alvarezsaurs.md",
-    "2. Notions/midterm/Aeolian Deposits.md",
-    "2. Notions/midterm/Processing plants.md",
-    "2. Notions/midterm/Fluvial Deposits.md",
-    "2. Notions/midterm/Finding Fossils.md",
-    "2. Notions/midterm/Fenestrae.md",
-    "2. Notions/midterm/Feathers (Dinosaurs).md",
-    "2. Notions/midterm/Feather Colors.md",
-    "2. Notions/midterm/Facultative Bipeds.md",
-    "2. Notions/midterm/Erect.md",
-    "2. Notions/midterm/Endotherm Bones.md",
-    "2. Notions/midterm/Endotherm.md",
-    "2. Notions/midterm/Durophagy.md",
-    "Serrated",
+    "Images/2. Notions/midterm/Ornithopods.md",
+    "Untitled 2.base",
+    "Images/2. Notions/midterm/Bite Marks (𝓯𝓻𝓮𝓪𝓴𝔂).md",
     "Untitled 1.base",
+    "Images/2. Notions/midterm/Acetabulum.md",
+    "Untitled.base",
+    "Shared Derived Character.md",
+    "Character Matrix.md",
+    "Phylogenetic Trees.md",
+    "How to find common ancestor.md",
+    "Heritable.md",
+    "Evolution.md",
+    "Clade.md",
+    "Character.md",
+    "2. Notions/final/chapter8/Evolution.md",
+    "Images/2. Notions/final/chapter8",
+    "Images/2. Notions/final",
+    "Images/2. Notions/midterm/Sediments.md",
+    "Images/2. Notions/midterm",
+    "Images/2. Notions/midterm/Coal.md",
+    "Images/2. Notions/midterm/Appendicular Skeleton.md",
+    "Images/2. Notions/midterm/Ankylosauria.md",
+    "Images/2. Notions/midterm/Alvarezsaurs.md",
+    "Images/2. Notions/midterm/Aeolian Deposits.md",
+    "Images/2. Notions/midterm/Processing plants.md",
+    "Images/2. Notions/midterm/Fluvial Deposits.md",
+    "Images/2. Notions/midterm/Finding Fossils.md",
+    "Images/2. Notions/midterm/Fenestrae.md",
+    "Images/2. Notions/midterm/Feathers (Dinosaurs).md",
+    "Images/2. Notions/midterm/Feather Colors.md",
+    "Images/2. Notions/midterm/Facultative Bipeds.md",
+    "Images/2. Notions/midterm/Erect.md",
+    "Serrated",
     "_templates/presentations/slides-cea",
     "_templates/presentations/resources-cea/deco-coin-blanc.png",
     "_templates/presentations/resources-cea/quote-rouge.png",
@@ -373,7 +373,6 @@
     "_templates/presentations/resources-cea/deco-fond-gauche.png",
     "_templates/presentations/resources-cea/deco.zip",
     "_templates/slides/deco.zip",
-    "_templates/presentations/resources-cea",
     "Untitled.canvas"
   ]
 }
